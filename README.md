@@ -1,16 +1,15 @@
-# Beecrowd Daily Practice
+# Beecrowd Practice
 
-Daily solutions for Beecrowd beginner problems.
+Solutions to Beecrowd beginner-level challenges.
 
 ## 📌 About
-This repository contains my daily practice solving problems from the
-**Beecrowd Beginner** category, focusing on logic, fundamentals, and consistency.
+A repository to solve Beecrowd challenges and practice programming logic with Python.
 
 ## 🗂 Structure
-Problems are organized by difficulty level, following Beecrowd's classification:
+Problems are organized by Beecrowd's difficulty levels:
 
-- `nivel-1`
-- `nivel-2`
-- `nivel-3`
-- `nivel-4`
-- `nivel-5`
+- nivel-1
+- nivel-2
+- nivel-3
+- nivel-4
+- nivel-5
